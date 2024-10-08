@@ -1,7 +1,27 @@
-## Hi there 👋
+<h1>Hi, I'm Sebastian!</br> <a href="https://github.com/Sebastian-Andalytics">A McGill Business Anayltics and Sustainability Student</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Premier League and Google Trends regression, Machine learning</b>
+  - [Link to the github repository](https://github.com/Sebastian-Andalytics/INSY336/tree/main/PremierLeagueAnalyticsProject)
+
+<h2>🌲 Sustainability and Strategy projects</h2>
+
+- <b>Tranforming the transport industry in Canada, a project dedicated to researching the costs and implications of creating a high speed rail line between Montreal, Toronto and Ottawa</b>
+   - [Link to the slide deck](https://mcgill-my.sharepoint.com/:p:/r/personal/sebastian_andersen_mail_mcgill_ca/Documents/Portfolio/Transforming_The_Transport_Industry.pptx?d=w5644ad445fe147d489e7b5716450a28e&csf=1&web=1&e=Vbl8is)
+- <b>Strategy Presentation with Client interaction</b>
+   - [Link to the slide deck](https://mcgill-my.sharepoint.com/:p:/g/personal/sebastian_andersen_mail_mcgill_ca/ESr3tZWJ_BhCnUfEmYF8fr0B1ynKIknVk1bl8gu5e5mY8Q?e=wimBaU)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/sebastian-engh-andersen-ab0590254/
 
 <!--
-**Sebastian-Andalytics/Sebastian-Andalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
