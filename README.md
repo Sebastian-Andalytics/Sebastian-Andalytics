@@ -4,7 +4,12 @@
 
 - <b>Premier League and Google Trends regression, Machine learning</b>
   - [Link to the github repository](https://github.com/Sebastian-Andalytics/INSY336/tree/main/PremierLeagueAnalyticsProject)
-
+- <b>IMDB Movie predictions using R</b>
+  - [Link to the github repository](https://github.com/Sebastian-Andalytics/IMDBPredictions)
+- <b>Building heating needs using R, random forest and clustering</b>
+  - [Link to the github repository](https://github.com/Sebastian-Andalytics/HousingMLproblem)
+- <b>Loan approval prediction using scikitlearn and pandas, Machine Learning</b>
+  - [Link to the github repository](https://github.com/Sebastian-Andalytics/HousingLoanML)
 <h2>🌲 Sustainability and Strategy projects</h2>
 
 - <b>Tranforming the transport industry in Canada, a project dedicated to researching the costs and implications of creating a high speed rail line between Montreal, Toronto and Ottawa</b>
