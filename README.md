@@ -13,7 +13,7 @@
 <h2>🌲 Sustainability and Strategy projects</h2>
 
 - <b>Tranforming the transport industry in Canada, a project dedicated to researching the costs and implications of creating a high speed rail line between Montreal, Toronto and Ottawa</b>
-   - [Link to the slide deck](https://mcgill-my.sharepoint.com/:p:/r/personal/sebastian_andersen_mail_mcgill_ca/Documents/Portfolio/Transforming_The_Transport_Industry.pptx?d=w5644ad445fe147d489e7b5716450a28e&csf=1&web=1&e=Vbl8is)
+   - [Link to the slide deck](https://mcgill-my.sharepoint.com/:p:/g/personal/sebastian_andersen_mail_mcgill_ca/EUStRFbhX9RHiee1cWRQoo4Bnt1Y9kgyE9cIwtoVxzzjMg?e=Lpqd1Y)
 - <b>Strategy Presentation with Client interaction</b>
    - [Link to the slide deck](https://mcgill-my.sharepoint.com/:p:/g/personal/sebastian_andersen_mail_mcgill_ca/ESr3tZWJ_BhCnUfEmYF8fr0B1ynKIknVk1bl8gu5e5mY8Q?e=wimBaU)
 
